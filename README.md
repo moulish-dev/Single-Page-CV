@@ -1,7 +1,7 @@
 # Single-Page-CV
 
 CV: https://moulish-dev.github.io/Single-Page-CV/index.html
-From: https://roadmap.sh/projects/single-page-cv
+
 
 My CV Website
 This is the repository for my personal CV, hosted using GitHub Pages. The site showcases my resume, skills, projects, and contact information.
